@@ -1,0 +1,66 @@
+(command "-insert" "1057-MAST ARM - 45FT GALV- NMPW" "_s" 1 (list -500 0 0) 0) "Valmont" 
+"mast arm"
+(command "-insert" "1073-UPRIGHT-20FT-18IN BC-MNPW-GALV" "_s" 1 (list 371 83 -5) 0) "Valmont" 
+"upright"
+(command "-view" "o" "left")
+(command "-insert" "1026-BACK PLATE-MAST ARM-18.75IN" "_s" 1 (list -265 100 -592.3) 0) "Valmont" 
+"backplate"
+(command "-view" "o" "front")
+(command "-insert" "1003-ASSY - YELLOW - 130 SIGNAL HEAD W" "_s" 1 (list 408 67.4 26.7) 0) "Pelco" 
+"SH1"
+(command "-insert" "1018-ASSY-YELLOW-150A2H LEFT SIGNAL HEAD W" "_s" 1 (list 300 67.4 26.7) 0) "Pelco" 
+"SH2"
+(command "-view" "o" "left")
+(command "-insert" "1101-PEDESTRIAN SIGNAL HEAD-YELLOW-DRILLED LEFT" "_s" 1 (list -74.4 -85.64 -597) 0) "Pelco" 
+"PH1"
+(command "-view" "o" "front")
+(command "-insert" "1101-PEDESTRIAN SIGNAL HEAD-YELLOW-DRILLED LEFT" "_s" 1 (list 534 -85.6 -12.8) 0) "Pelco" 
+"PH2"
+text
+592,-205
+10
+0 P2-45'
+(command "-insert" "1051-MAST ARM-35FT GALV - NMPW" "_s" 1 (list -1000 0 0) 0) "Valmont" 
+"mast arm"
+(command "-insert" "1073-UPRIGHT-20FT-18IN BC-MNPW-GALV" "_s" 1 (list -129 83 -5) 0) "Valmont" 
+"upright"
+(command "-view" "o" "left")
+(command "-insert" "1026-BACK PLATE-MAST ARM-18.75IN" "_s" 1 (list -265 100 -92.3) 0) "Valmont" 
+"backplate"
+(command "-view" "o" "front")
+(command "-insert" "1003-ASSY - YELLOW - 130 SIGNAL HEAD W" "_s" 1 (list -92 67.4 26.7) 0) "Pelco" 
+"SH1"
+(command "-insert" "1018-ASSY-YELLOW-150A2H LEFT SIGNAL HEAD W" "_s" 1 (list -200 67.4 26.7) 0) "Pelco" 
+"SH2"
+(command "-view" "o" "left")
+(command "-insert" "1101-PEDESTRIAN SIGNAL HEAD-YELLOW-DRILLED LEFT" "_s" 1 (list -74.4 -85.64 -97) 0) "Pelco" 
+"PH1"
+(command "-view" "o" "front")
+(command "-insert" "1101-PEDESTRIAN SIGNAL HEAD-YELLOW-DRILLED LEFT" "_s" 1 (list 34 -85.6 -12.8) 0) "Pelco" 
+"PH2"
+text
+92,-205
+10
+0 P3-35'
+(command "-insert" "1047-MAST ARM-25FT GALV - NMPW" "_s" 1 (list -1500 0 0) 0) "Valmont" 
+"mast arm"
+(command "-insert" "1073-UPRIGHT-20FT-18IN BC-MNPW-GALV" "_s" 1 (list -629 83 -5) 0) "Valmont" 
+"upright"
+(command "-view" "o" "left")
+(command "-insert" "1026-BACK PLATE-MAST ARM-18.75IN" "_s" 1 (list -265 100 -592.3) 0) "Valmont" 
+"backplate"
+(command "-view" "o" "front")
+(command "-insert" "1003-ASSY - YELLOW - 130 SIGNAL HEAD W" "_s" 1 (list -592 67.4 26.7) 0) "Pelco" 
+"SH1"
+(command "-insert" "1018-ASSY-YELLOW-150A2H LEFT SIGNAL HEAD W" "_s" 1 (list -700 67.4 26.7) 0) "Pelco" 
+"SH2"
+(command "-view" "o" "left")
+(command "-insert" "1101-PEDESTRIAN SIGNAL HEAD-YELLOW-DRILLED LEFT" "_s" 1 (list -74.4 -85.64 403) 0) "Pelco" 
+"PH1"
+(command "-view" "o" "front")
+(command "-insert" "1101-PEDESTRIAN SIGNAL HEAD-YELLOW-DRILLED LEFT" "_s" 1 (list -466 -85.6 -12.8) 0) "Pelco" 
+"PH2"
+text
+-408,-205
+10
+0 P4-25'
